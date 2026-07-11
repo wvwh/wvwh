@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kerch&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=OSINT%20Enthusiast%20%7C%20Aspiring%20Developer&descAlignY=55&descSize=18&theme=cobalt" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kerch&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Software%20Developer&descAlignY=55&descSize=18&theme=cobalt" width="100%"/>
 
 </div>
 
@@ -10,17 +10,17 @@
 <tr>
 <td width="70%" valign="top">
 
-### 👋 Sobre mim
+### 👋 About Me
 
-Salve! Sou o **Kerch**, um osinter novo na área, ainda de pouca idade, mas com muita vontade de aprender. Curto investigar, quebrar a cabeça em pesquisas de OSINT e, aos poucos, tô entrando de cabeça no mundo da programação.
+Greetings. I am **Kerch**, an OSINT specialist and software developer with proven proficiency in digital investigation techniques and software engineering practices, despite my young age. My work is grounded in practical, hands-on application rather than theoretical study alone.
 
-Hoje meus estudos giram em torno de:
+My areas of expertise include:
 
-- 🔎 **OSINT** — técnicas de investigação e pesquisa digital
-- 🛡️ **Cibersegurança** — aprendendo os fundamentos e boas práticas
-- 💻 **Desenvolvimento de software** — evoluindo através de projetos práticos e autoestudo
+- 🔎 **OSINT** — open-source intelligence gathering and digital investigation methodologies
+- 🛡️ **Cybersecurity** — applied knowledge of security principles and best practices
+- 💻 **Software Development** — building and maintaining projects across multiple technologies
 
-> Tudo que sei hoje veio de projeto na mão e muita pesquisa, então tô sempre aberto a trocar ideia e aprender mais.
+> My skill set has been developed entirely through hands-on projects and rigorous self-study, and I remain committed to continuous professional growth.
 
 </td>
 <td width="30%" align="center">
@@ -33,7 +33,7 @@ Hoje meus estudos giram em torno de:
 
 <br>
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <div align="center">
 
@@ -53,11 +53,11 @@ Hoje meus estudos giram em torno de:
 
 <br>
 
-### 🌐 Redes sociais
+### 🌐 Connect
 
 <div align="center">
 
-<a href="https://instagram.com/" target="_blank">
+<a href="https://www.instagram.com/archivenameless/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
 </a>
 
