@@ -18,7 +18,9 @@ My areas of expertise include:
 - 🛡️ **Cybersecurity** — applied knowledge of security principles and best practices
 - 💻 **Software Development** — building and maintaining projects across multiple technologies
 
-> My skill set has been developed entirely through hands-on projects and rigorous self-study, and I remain committed to continuous professional growth.
+**— My skill set has been developed entirely through hands-on projects and rigorous self-study, and I remain committed to continuous professional growth.**
+
+> *Intelligence to defend, but never to attack.*
 
 </td>
 <td width="30%" align="center">
