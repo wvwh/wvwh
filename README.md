@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kerch&fontSize=60&fontColor=#5b5a5b&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Software%20Developer&descAlignY=55&descSize=18&theme=cobalt" width="100%"/> </div> <br> <table> <tr> <td width="70%" valign="top">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kerch&fontSize=60&fontColor=#5b5a5b&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Software%20Developer&descAlignY=55&descSize=18&theme=cobalt" width="100%"/>
+</div>
 
 <br>
 
@@ -16,7 +18,7 @@ My areas of expertise include:
 - 🛡️ **Cybersecurity** — applied knowledge of security principles and best practices
 - 💻 **Software Development** — building and maintaining projects across multiple technologies
 
-> Intelligence to defend, but never to attack.
+> My skill set has been developed entirely through hands-on projects and rigorous self-study, and I remain committed to continuous professional growth.
 
 </td>
 <td width="30%" align="center">
