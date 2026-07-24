@@ -22,7 +22,7 @@ My areas of expertise include:
 
 </td>
 <td width="30%" align="center">
-<img src="https://i.pinimg.com/736x/b5/7a/0a/b57a0a6109856cd7755969dd756da609.jpg" width="180" style="border-radius:12px" />
+<img src="[[https://i.pinimg.com/736x/b5/7a/0a/b57a0a6109856cd7755969dd756da609.jpg](https://i.pinimg.com/736x/f6/c0/7e/f6c07e7f4b8e6420dfe38dce38606e9e.jpg)](https://cdn.discordapp.com/attachments/1528242742801469504/1530137661845803100/f6c07e7f4b8e6420dfe38dce38606e9e.png?ex=6a647b3f&is=6a6329bf&hm=0c44c2eafc522968701d0c8af6e7aef5ab492069a5ee995c29ac3896e0539388&)" width="180" style="border-radius:12px" />
 </td>
 </tr>
 </table>
