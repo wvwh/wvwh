@@ -8,17 +8,17 @@
 <tr>
 <td width="70%" valign="top">
 
-### 👋 Sobre mim
+### 👋 About Me
 
-Olá, sou **Kerch**, especialista em OSINT e desenvolvedor de software com experiência prática em investigação digital e engenharia de software. Meu trabalho é construído a partir de aplicação prática, não apenas de estudo teórico.
+Greetings. I am **Kerch**, an OSINT specialist and software developer with proven proficiency in digital investigation techniques and software engineering practices, despite my young age. My work is grounded in practical, hands-on application rather than theoretical study alone.
 
-Minhas principais áreas de atuação:
+My areas of expertise include:
 
-- 🔎 **OSINT** — coleta de inteligência em fontes abertas e metodologias de investigação digital
-- 🛡️ **Cibersegurança** — aplicação de princípios e boas práticas de segurança
-- 💻 **Desenvolvimento de Software** — construção e manutenção de projetos em múltiplas tecnologias
+- 🔎 **OSINT** — open-source intelligence gathering and digital investigation methodologies
+- 🛡️ **Cybersecurity** — applied knowledge of security principles and best practices
+- 💻 **Software Development** — building and maintaining projects across multiple technologies
 
-> Minhas habilidades foram desenvolvidas por meio de projetos práticos e estudo autodidata contínuo.
+> My skill set has been developed entirely through hands-on projects and rigorous self-study, and I remain committed to continuous professional growth.
 
 </td>
 <td width="30%" align="center">
@@ -29,7 +29,7 @@ Minhas principais áreas de atuação:
 
 <br>
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React"/>
