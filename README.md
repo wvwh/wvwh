@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kerch&fontSize=60&fontColor=#5b5a5b&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Software%20Developer&descAlignY=55&descSize=18&theme=cobalt" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=180&section=header&text=Kerch&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <br>
@@ -48,5 +48,5 @@ My areas of expertise include:
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer&reversal=false" width="100%"/>
 </div>
