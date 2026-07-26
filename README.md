@@ -74,8 +74,8 @@ Despite being early in my journey, my skills come from hands-on practice, real p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kerch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8892B0&icon_color=8892B0&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kerch&theme=dark&hide_border=true&background=0d1117&ring=8892B0&fire=8892B0&currStreakLabel=8892B0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wvwh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8892B0&icon_color=8892B0&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wvwh&theme=dark&hide_border=true&background=0d1117&ring=8892B0&fire=8892B0&currStreakLabel=8892B0" />
 
 </div>
 
@@ -85,8 +85,8 @@ Despite being early in my journey, my skills come from hands-on practice, real p
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/wvwh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:siregi@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
