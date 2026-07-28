@@ -98,6 +98,8 @@ Despite being early in my journey, my skills come from hands-on practice, real p
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1492967717022597313?theme=dark&bg=0d1117&animated=true)](https://discord.com/users/1492967717022597313)
 
+![App Screenshot](https://i.pinimg.com/vwebp/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.webp)
+
 </div>
 
 <br>
