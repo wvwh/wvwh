@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Kerch&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Cybersecurity%20%7C%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Custódio&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=OSINT%20Specialist%20%7C%20Cybersecurity%20%7C%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8892B0&center=true&vCenter=true&width=600&lines=Digging+through+open-source+data...;Turning+fragments+into+intelligence.;Based+in+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-Hey, I'm **Kerch** — an OSINT specialist and software developer based in **São Paulo, Brazil 🇧🇷**. I focus on open-source intelligence gathering, digital investigation, and building tools that support cybersecurity and analytical work.
+Hey, I'm **Custódio** — an OSINT specialist and software developer based in **São Paulo, Brazil 🇧🇷**. I focus on open-source intelligence gathering, digital investigation, and building tools that support cybersecurity and analytical work.
 
 Despite being early in my journey, my skills come from hands-on practice, real projects, and constant self-study rather than theory alone. I'm also interested in **International Relations**, which shapes how I approach investigations — thinking about context, geopolitics, and the bigger picture behind the data.
 
