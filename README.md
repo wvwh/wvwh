@@ -95,7 +95,7 @@ Despite being early in my journey, my skills come from hands-on practice, real p
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1492967717022597313?theme=dark&bg=0d1117&animated=true)](https://discord.com/users/1492967717022597313)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/767571760148119584?theme=dark&bg=0d1117&animated=true)](https://discord.com/users/767571760148119584)
 
 </div>
 
