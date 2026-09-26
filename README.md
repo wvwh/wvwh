@@ -95,7 +95,9 @@ Despite being early in my journey, my skills come from hands-on practice, real p
 
 <div align="center">
 
-[![Discord](https://lanyard.cnrad.dev/api/767571760148119584?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10)](https://discord.com/users/767571760148119584)
+<a href="https://discord.com/users/767571760148119584">
+  <img src="https://lanyard.cnrad.dev/api/767571760148119584?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12" />
+</a>
 
 </div>
 
