@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:16213e&height=220&section=header&text=Custódio&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Roblox%20Developer%20%7C%20Software%20Development%20%7C%20Python&descAlignY=55&descSize=20" width="100%"/>
@@ -145,4 +144,3 @@ I'm also interested in **Open-Source Intelligence (OSINT)**, digital investigati
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:16213e&height=120&section=footer" width="100%"/>
 
 </div>
-```
