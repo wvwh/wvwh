@@ -57,8 +57,6 @@ I believe in learning by building, experimenting with new ideas, and turning con
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roblox/roblox-original.svg" height="45" alt="Roblox" title="Roblox"/>
-<img width="14"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="45" alt="Luau / Lua" title="Luau / Lua"/>
 <img width="14"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
